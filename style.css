@@ -3,6 +3,35 @@
     display: inline;
 }
 
-#textobloco{
-    
+#txtb1{
+    width: 33%;
+display: inline-block;
+vertical-align: top;
+}
+
+#txtb2{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    float: center;
+}
+
+#txtb3{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+}
+
+#img1{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#txtb4{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
 }
