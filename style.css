@@ -1,6 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
 #header{
     text-align: center;
     display: inline;
+}
+
+#botao{
+    float: right;
 }
 
 #txtb1{
@@ -34,4 +42,22 @@ vertical-align: top;
     display: inline-block;
     vertical-align: top;
     float: right;
+}
+
+#txtb5{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+}
+
+#img2{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+}
+
+footer{
+    display: inline-block;
 }
